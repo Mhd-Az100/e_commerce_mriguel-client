@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27920097763",
+    "project_id": "mriguel-e5e66",
+    "storage_bucket": "mriguel-e5e66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27920097763:android:edc57404d63ae6b31840d6",
+        "android_client_info": {
+          "package_name": "com.mriguel.markets.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27920097763-g5napkagjkj2g7631tip14mbv9ng6687.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoqXTR7LSoH4RizKX9NQC5z0clXHTJ5nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27920097763-g5napkagjkj2g7631tip14mbv9ng6687.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+{
+    "base_url": "https://mriguelapp.com/",
+    "api_base_url": "https://mriguelapp.com/api/",
+    "clic_to_pay_url": "https://test.clictopay.com/payment/rest/"
+}

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "798846537582",
+    "firebase_url": "https://wamyada.firebaseio.com",
+    "project_id": "wamyada",
+    "storage_bucket": "wamyada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798846537582:android:07295bdedae0907403fb7f",
+        "android_client_info": {
+          "package_name": "com.mriguel.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798846537582-e3e4vqsc7codc69ru75c75igou5k54st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mriguel.markets",
+            "certificate_hash": "b60a361af4387f6f51ee22f69158387cbb02ee9c"
+          }
+        },
+        {
+          "client_id": "798846537582-rmu00r8bvoq7nf072ms0qcdja35digr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mriguel.markets",
+            "certificate_hash": "fb08d8446bae29e6d7ea00e03e97c20e5926cb5c"
+          }
+        },
+        {
+          "client_id": "798846537582-sabieu0r6srgrpsrqglo455lo80sers2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mriguel.markets",
+            "certificate_hash": "0c97adbc0e49795583ca9250437bbe3ae1b9996c"
+          }
+        },
+        {
+          "client_id": "798846537582-5eplr71us5k6p0tv1biuo3tvd3utn3m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuXkeWkX9arDeYD_fsFDnS3c2y6tZk1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798846537582-5eplr71us5k6p0tv1biuo3tvd3utn3m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798846537582:android:50b31cf47a6ca23203fb7f",
+        "android_client_info": {
+          "package_name": "com.wamyada.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798846537582-5eplr71us5k6p0tv1biuo3tvd3utn3m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuXkeWkX9arDeYD_fsFDnS3c2y6tZk1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798846537582-5eplr71us5k6p0tv1biuo3tvd3utn3m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798846537582:android:344142dbeca347ae03fb7f",
+        "android_client_info": {
+          "package_name": "com.wamyada.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798846537582-5eplr71us5k6p0tv1biuo3tvd3utn3m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuXkeWkX9arDeYD_fsFDnS3c2y6tZk1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798846537582-5eplr71us5k6p0tv1biuo3tvd3utn3m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
